@@ -5,6 +5,7 @@ import math
 import sqlite3
 import ColorName
 
+"""Original Author: Larbi Sahli"""
 """
 [important!]
 if you are using IDLE remove tqdm from the for loops (tqdm(range())) in Acquire class and Analysis class

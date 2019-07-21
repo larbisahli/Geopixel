@@ -25,4 +25,4 @@ same with Ellipse:
 [(1, "{'type': 'Ellipse', 'Minor Axis': '2.34 cm', 'Major Axis': '6.64 cm', 'Circumference': '31.29 cm', 'Area': '48.85 cm^2', 'color': 'Black'}")]
 
 
-you can use multiple shapes in one picture but they must be vertical see examples in (Geometric shapes that pixel can recognise) folder.
+you can use multiple shapes in one picture but they must be vertical, see examples in (Geometric shapes that pixel can recognise) folder.

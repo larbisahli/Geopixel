@@ -122,7 +122,7 @@ class ExtractData:
             return False
 
 
-"""gathering primitive data"""
+"""gathering primitive data (pixels)"""
 
 
 class Acquire:

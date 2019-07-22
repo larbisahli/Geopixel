@@ -720,11 +720,11 @@ def display(name):
 
 if __name__ == "__main__":
     def initialize(name):
-        print(Acquire(f"{name}.png").active_pixels_collector())
+        print(Acquire(f"{name}").active_pixels_collector())
         if Table('main_memory').check_table():
             Table('main_memory').drop_table()
         Recognition.active()
 
-    initialize('Geometric shapes that pixel can recognise/Horizontal line')
+    initialize('Geometric shapes that pixel can recognise/Horizontal line.png')
     display('main_memory')
     c.close()

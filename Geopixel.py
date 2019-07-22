@@ -8,7 +8,7 @@ import ColorName
 """Original Author: Larbi Sahli"""
 """
 [important!]
-if you are using IDLE remove tqdm from the for loops (tqdm(range())) in Acquire class and Analysis class
+if you are using IDLE remove tqdm (Progress Bar) from the for loops (tqdm(range())) in Acquire class and Analysis class
 unless you are using more advanced text editor like PyCharm 
 
 installing tqdm ==> pip install tqdm

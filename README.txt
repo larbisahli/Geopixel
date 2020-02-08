@@ -26,3 +26,5 @@ same with Ellipse:
 
 
 you can use multiple shapes in one picture but they must be vertical, see examples in (Geometric shapes that pixel can recognise) folder.
+
+(my first python program :v )
